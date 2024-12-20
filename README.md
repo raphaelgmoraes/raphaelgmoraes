@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br>- Desenvolvedor Full Stack Backend<br>- Perfil Generalista<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain<br><br>Em busca de uma nova oportunidade</p>
-
-###
-
-<p align="left">SoftSkill</p>
+<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br><br>- Desenvolvedor Full Stack Backend<br>- Perfil Generalista<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain<br><br>Em busca de uma nova oportunidade</p>
 
 ###
 
@@ -59,10 +55,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/raphael-moraes-86749430" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -71,9 +63,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
