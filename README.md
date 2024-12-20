@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br><br>- Desenvolvedor Full Stack Backend<br>- Perfil Generalista<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain<br><br>Em busca de uma nova oportunidade</p>
+<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br>- Desenvolvedor Full Stack Backend<br>- Perfil Generalista<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain<br><br>Em busca de uma nova oportunidade</p>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
@@ -36,8 +38,6 @@
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/abbrobotstudio/FF9E0F" height="40" alt="abbrobotstudio logo"  />
 </div>
 
 ###
