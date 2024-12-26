@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br>- Desenvolvedor Full Stack Backend<br>- Perfil Generalista<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain<br><br>Em busca de uma nova oportunidade</p>
+<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br>- Desenvolvedor Full Stack Backend<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain<br><br>Em busca de uma nova oportunidade</p>
 
 ###
 
@@ -20,10 +20,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
