@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br>- Desenvolvedor Full Stack Backend<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain<br><br>Em busca de uma nova oportunidade</p>
+<p align="left">Apaixonado por tecnologia e o mundo open source, afim de aprender e socializar informações.<br><br>- Desenvolvedor Full Stack Backend<br>- Mensageria<br>- DevOps <br>- Entusiata Blockchain</p>
 
 ###
 
